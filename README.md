@@ -1,1 +1,1 @@
-This is a very basic todo app. Chatgpt told me to make this so why not. It was not that difficult but what I did is constantly loop through. which overtime can be inefficient. Will probably try to make a ui with tkiniter.
+This is a very basic todo app, constantly looping through a list. If multiple tasks are added, this becomes very inefficient. Will probably eventually make a ui with tkiniter.
